@@ -20,6 +20,11 @@ python unicode.py 203d
 ```
 Now, the unicode character with the code `203d`(‽) should be copied to your clipboard.
 
+```sh
+python unicode.py 3c9
+```
+This causes the unicode character with the code `3c9`(ω) to be copied to your clipboard.
+
 Alternatively, Windows users can use the batch file included in the repository.
 
 ## Release History
