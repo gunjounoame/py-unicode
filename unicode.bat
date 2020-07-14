@@ -1,0 +1,1 @@
+@python C:\Users\Yun\useful_programs\unicode.py %*
