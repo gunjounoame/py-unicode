@@ -10,7 +10,7 @@ Install the repository as a .zip file, then extract the contents to whereever be
 
 In order to use py-unicode, the following programs need to be installed:
 
-* [Python 3.8](https://www.python.org/downloads/)
+* [Python 3.8](https://www.python.org/downloads/) (Tested, though any version of Python 3 should work)
   * [pyperclip](https://pypi.org/project/pyperclip/)
 
 ## Usage example
